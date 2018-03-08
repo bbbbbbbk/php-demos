@@ -28,7 +28,7 @@ Reflection::export($foo_class);
 
 /**
 Class [ <user> class Foo ] {
-  @@ E:\code_local\demos\reflection_demo\index.php 2-23
+  @@ demos\reflection_demo\index.php 2-23
 
   - Constants [0] {
   }
@@ -48,15 +48,15 @@ Class [ <user> class Foo ] {
 
   - Methods [3] {
     Method [ <user, ctor> public method __construct ] {
-      @@ E:\code_local\demos\reflection_demo\index.php 9 - 12
+      @@ demos\reflection_demo\index.php 9 - 12
     }
 
     Method [ <user> private method __clone ] {
-      @@ E:\code_local\demos\reflection_demo\index.php 14 - 17
+      @@ demos\reflection_demo\index.php 14 - 17
     }
 
     Method [ <user> public method bar ] {
-      @@ E:\code_local\demos\reflection_demo\index.php 19 - 22
+      @@ demos\reflection_demo\index.php 19 - 22
     }
   }
 }
