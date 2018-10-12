@@ -1,0 +1,16 @@
+{
+    "name": "demo/crawler",
+    "description": "php crawler demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bbbbbbbk",
+            "email": "erkang92@126.com"
+        }
+    ],
+    "require": {
+        "symfony/dom-crawler": "^4.1",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
